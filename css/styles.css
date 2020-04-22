@@ -1,0 +1,62 @@
+body {
+    color: #606470;
+}
+
+a {
+    color: #DEF2F1;
+    border-bottom: 1px solid transparent;
+}
+
+button {
+    background: #3AAFA9;
+}
+
+.navbar {
+    background: #3AAFA9;
+    border-bottom: #DEF2F1 2px solid;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    border-bottom: 1px #DEF2F1 solid;
+    color: #DEF2F1;
+}
+
+#home-section {
+    background: #3AAFA9;
+    min-height: 400px;
+    color: #DEF2F1;
+}
+
+#home-section .home-inner {
+    padding-top: 100px;
+}
+
+#projects {
+    background: #17252A;
+    color: #DEF2F1
+}
+
+#projects .container {
+    height: 200px;
+}
+
+#contact button {
+    background: #3AAFA9;
+    color: #DEF2F1;
+}
+
+footer {
+    background: #3AAFA9;
+}
+
+footer .container {
+    height: 100px;
+}
+
+footer .col h3 {
+    color: #DEF2F1;
+}
