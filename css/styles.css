@@ -7,8 +7,8 @@ a {
     border-bottom: 1px solid transparent;
 }
 
-.navbar-toggler-icon {
-    color: #DEF2F1 !important;
+.fa-bars {
+    color: #DEF2F1;
 }
 
 .navbar {
