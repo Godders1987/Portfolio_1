@@ -7,8 +7,8 @@ a {
     border-bottom: 1px solid transparent;
 }
 
-button {
-    background: #3AAFA9;
+.navbar-toggler-icon {
+    color: #DEF2F1 !important;
 }
 
 .navbar {
